@@ -1,0 +1,1 @@
+name=%27%3Bselect+*+from+mydns.rr+%23

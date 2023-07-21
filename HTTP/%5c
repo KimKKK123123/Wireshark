@@ -1,0 +1,17 @@
+<html><head><title>Santa's Naughty/Nice List</title></head>
+<body>
+<h1><center>Santa's Naughty/Nice List</center></h1><hr>
+
+<p>Santa has decided to help alleviate surprise on Christmas
+morning by allowing pepole to check which list they are on.
+After all, if he checks it twice, he may as well let you check it
+once!  Simply enter your name below and check your niceness!</p>
+
+<form action="checklist.php" method="post">
+Your name:<br>
+<input type="text" name="name" size="30">
+<br><br>
+<input type="submit" value="Check your niceness">
+</form>
+
+</body></html>

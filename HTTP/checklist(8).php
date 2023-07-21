@@ -1,0 +1,1 @@
+name=%27%3Bshow+tables+from+mydns+%23
